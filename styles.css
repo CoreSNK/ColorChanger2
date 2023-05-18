@@ -1,0 +1,21 @@
+.main-wrapper {
+  width: 50%;
+  margin: auto;
+  border: 3px solid blue;
+  margin: 3rem auto;
+  padding: 1rem 1rem;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.buttons {
+  width: 75%;
+  margin: auto;
+  gap: 0.5rem;
+}
+
+#changer, #reset, #font {
+  background-color: rgb(0, 85, 225);
+  color: white;
+  border-radius: 10px;
+}
